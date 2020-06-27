@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 add merge
-hello world
+Git is a free software
+nihao aini hhhhh
